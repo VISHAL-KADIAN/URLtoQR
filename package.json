@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.2.23",
+    "qr-image": "^3.2.0"
+  },
+  "name": "qrcodegenerator",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KadianVishal",
+  "license": "ISC",
+  "description": "TAKES A URL FROM THE USER AND GENERATE QR CODE FOR THAT URL AND SAVES THE IMAGE AND THE FILE LOCALLY"
+}
